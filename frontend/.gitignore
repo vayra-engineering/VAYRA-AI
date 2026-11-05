@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# VAYRA local backup files
+
+# Duplicate brand images in repository root
+
+# VAYRA local backup files
+/src/*.backup
+/src/*.before-*
